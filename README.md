@@ -16,6 +16,8 @@ Automated script to fix USB tethering, install NetworkManager, and set up Brave 
 ```bash
 # Download the script
 wget https://raw.githubusercontent.com/HAAZIQ-ALI/bash/main/arch.sh
+#or
+curl -o arch.sh https://raw.githubusercontent.com/HAAZIQ-ALI/bash/main/arch.sh
 
 # Make it executable
 chmod +x arch.sh
